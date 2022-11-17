@@ -68,7 +68,7 @@ global.psaweria = 'https://saweria.co/mrw4h1d'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285696693695'
-global.nomorown = '6285696693695'
+global.nomorown = '6285696508526'
 global.namebot = 'nusa-botz'
 global.nameown = 'nusa-mc'
 
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285696693695', 'nusa-mc', true],
+  ['6285696508526', 'nusa-mc', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
